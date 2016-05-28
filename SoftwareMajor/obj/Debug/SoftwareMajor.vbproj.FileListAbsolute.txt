@@ -1,0 +1,44 @@
+c:\users\jarod\documents\visual studio 2015\Projects\SoftwareMajor\SoftwareMajor\bin\Debug\SoftwareMajor.exe.config
+c:\users\jarod\documents\visual studio 2015\Projects\SoftwareMajor\SoftwareMajor\bin\Debug\SoftwareMajor.exe
+c:\users\jarod\documents\visual studio 2015\Projects\SoftwareMajor\SoftwareMajor\bin\Debug\SoftwareMajor.pdb
+c:\users\jarod\documents\visual studio 2015\Projects\SoftwareMajor\SoftwareMajor\bin\Debug\SoftwareMajor.xml
+c:\users\jarod\documents\visual studio 2015\Projects\SoftwareMajor\SoftwareMajor\obj\Debug\SoftwareMajor.vbprojResolveAssemblyReference.cache
+c:\users\jarod\documents\visual studio 2015\Projects\SoftwareMajor\SoftwareMajor\obj\Debug\MainWindow.g.vb
+c:\users\jarod\documents\visual studio 2015\Projects\SoftwareMajor\SoftwareMajor\obj\Debug\Application.g.vb
+c:\users\jarod\documents\visual studio 2015\Projects\SoftwareMajor\SoftwareMajor\obj\Debug\SoftwareMajor_MarkupCompile.cache
+c:\users\jarod\documents\visual studio 2015\Projects\SoftwareMajor\SoftwareMajor\obj\Debug\SoftwareMajor_MarkupCompile.lref
+c:\users\jarod\documents\visual studio 2015\Projects\SoftwareMajor\SoftwareMajor\obj\Debug\MainWindow.baml
+c:\users\jarod\documents\visual studio 2015\Projects\SoftwareMajor\SoftwareMajor\obj\Debug\SoftwareMajor.g.resources
+c:\users\jarod\documents\visual studio 2015\Projects\SoftwareMajor\SoftwareMajor\obj\Debug\SoftwareMajor.Resources.resources
+c:\users\jarod\documents\visual studio 2015\Projects\SoftwareMajor\SoftwareMajor\obj\Debug\SoftwareMajor.vbproj.GenerateResource.Cache
+c:\users\jarod\documents\visual studio 2015\Projects\SoftwareMajor\SoftwareMajor\obj\Debug\SoftwareMajor.exe
+c:\users\jarod\documents\visual studio 2015\Projects\SoftwareMajor\SoftwareMajor\obj\Debug\SoftwareMajor.xml
+c:\users\jarod\documents\visual studio 2015\Projects\SoftwareMajor\SoftwareMajor\obj\Debug\SoftwareMajor.pdb
+c:\users\jarod\documents\visual studio 2015\Projects\SoftwareMajor\SoftwareMajor\obj\Debug\Addstudents.g.vb
+c:\users\jarod\documents\visual studio 2015\Projects\SoftwareMajor\SoftwareMajor\bin\Debug\MICSdb.accdb
+c:\users\jarod\documents\visual studio 2015\Projects\SoftwareMajor\SoftwareMajor\obj\Debug\ViewStudents.g.vb
+c:\users\jarod\documents\visual studio 2015\Projects\SoftwareMajor\SoftwareMajor\obj\Debug\SoftwareMajor_Content.g.vb
+c:\users\jarod\documents\visual studio 2015\Projects\SoftwareMajor\SoftwareMajor\obj\Debug\Addstudents.baml
+c:\users\jarod\documents\visual studio 2015\Projects\SoftwareMajor\SoftwareMajor\obj\Debug\ViewStudents.baml
+C:\Users\jarod\Desktop\SoftwareMajor\SoftwareMajor\bin\Debug\SoftwareMajor.exe.config
+C:\Users\jarod\Desktop\SoftwareMajor\SoftwareMajor\obj\Debug\SoftwareMajor.exe
+C:\Users\jarod\Desktop\SoftwareMajor\SoftwareMajor\obj\Debug\SoftwareMajor.xml
+C:\Users\jarod\Desktop\SoftwareMajor\SoftwareMajor\obj\Debug\SoftwareMajor.pdb
+C:\Users\jarod\Desktop\SoftwareMajor\SoftwareMajor\obj\Debug\SoftwareMajor.vbprojResolveAssemblyReference.cache
+C:\Users\jarod\Desktop\SoftwareMajor\SoftwareMajor\obj\Debug\Addstudents.g.vb
+C:\Users\jarod\Desktop\SoftwareMajor\SoftwareMajor\obj\Debug\MainWindow.g.vb
+C:\Users\jarod\Desktop\SoftwareMajor\SoftwareMajor\obj\Debug\ViewStudents.g.vb
+C:\Users\jarod\Desktop\SoftwareMajor\SoftwareMajor\obj\Debug\Application.g.vb
+C:\Users\jarod\Desktop\SoftwareMajor\SoftwareMajor\obj\Debug\SoftwareMajor_Content.g.vb
+C:\Users\jarod\Desktop\SoftwareMajor\SoftwareMajor\obj\Debug\SoftwareMajor_MarkupCompile.cache
+C:\Users\jarod\Desktop\SoftwareMajor\SoftwareMajor\obj\Debug\SoftwareMajor_MarkupCompile.lref
+C:\Users\jarod\Desktop\SoftwareMajor\SoftwareMajor\bin\Debug\MICSdb.accdb
+C:\Users\jarod\Desktop\SoftwareMajor\SoftwareMajor\bin\Debug\SoftwareMajor.exe
+C:\Users\jarod\Desktop\SoftwareMajor\SoftwareMajor\bin\Debug\SoftwareMajor.pdb
+C:\Users\jarod\Desktop\SoftwareMajor\SoftwareMajor\bin\Debug\SoftwareMajor.xml
+C:\Users\jarod\Desktop\SoftwareMajor\SoftwareMajor\obj\Debug\Addstudents.baml
+C:\Users\jarod\Desktop\SoftwareMajor\SoftwareMajor\obj\Debug\MainWindow.baml
+C:\Users\jarod\Desktop\SoftwareMajor\SoftwareMajor\obj\Debug\ViewStudents.baml
+C:\Users\jarod\Desktop\SoftwareMajor\SoftwareMajor\obj\Debug\SoftwareMajor.g.resources
+C:\Users\jarod\Desktop\SoftwareMajor\SoftwareMajor\obj\Debug\SoftwareMajor.Resources.resources
+C:\Users\jarod\Desktop\SoftwareMajor\SoftwareMajor\obj\Debug\SoftwareMajor.vbproj.GenerateResource.Cache
