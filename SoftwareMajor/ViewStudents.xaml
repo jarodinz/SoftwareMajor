@@ -3,16 +3,16 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:MICSMajor"
+        xmlns:local="clr-namespace:SoftwareMajor"
         mc:Ignorable="d"
         Title="ViewStudents" Height="300" Width="300" Loaded="Window_Loaded">
     <Grid>
         <ListView x:Name="listView" HorizontalAlignment="Left" Height="240" Margin="10,10,0,0" VerticalAlignment="Top" Width="272">
             <ListView.View>
                 <GridView>
-                    <GridViewColumn Header="Firstname"/>
-                    <GridViewColumn Header="Surname"/>
-                    <GridViewColumn Header="DOB"/>
+                    <GridViewColumn Header="Firstname"  DisplayMemberBinding="{Binding Firstname}" Width="auto"/>
+                    <GridViewColumn Header="Surname" DisplayMemberBinding="{Binding Surname}" Width="auto"/>
+                    <GridViewColumn Header="DOB"  DisplayMemberBinding="{Binding DOB}" Width="auto"/>
                 </GridView>
             </ListView.View>
         </ListView>

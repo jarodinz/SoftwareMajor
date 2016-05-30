@@ -16,7 +16,7 @@ Module modConnection
                                                "Data Source=MICSdb.accdb;")
         connection.Open()
 
-
+        MsgBox("worked")
         MsgBox("worked")
 
     End Sub
