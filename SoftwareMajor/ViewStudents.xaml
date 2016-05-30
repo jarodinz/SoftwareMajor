@@ -16,6 +16,7 @@
                 </GridView>
             </ListView.View>
         </ListView>
+        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="540,10,0,0"/>
 
     </Grid>
 </Window>
